@@ -11,12 +11,12 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "miraframework/appmodels": "^0.1.0",
-        "miraframework/render": "^0.1.2",
-        "miraframework/forms": "^0.1.0",
-        "miraframework/models": "^0.1.0",
-        "miraframework/controller": "^0.1.0",
-        "miraframework/project": "^0.1.0",
-        "miraframework/shorthand": "^0.1.0"
+        "miraframework/appmodels": "^0.*",
+        "miraframework/render": "^0.*",
+        "miraframework/forms": "^0.*",
+        "miraframework/models": "^0.*",
+        "miraframework/controller": "^0.*",
+        "miraframework/project": "^0.*",
+        "miraframework/shorthand": "^0.*"
     }
 }
