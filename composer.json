@@ -14,7 +14,7 @@
         "miraframework/appmodels": "^0.1",
         "miraframework/render": "^0.1",
         "miraframework/forms": "^0.1",
-        "miraframework/models": "^0.1",
+        "miraframework/models": "^0.2",
         "miraframework/controller": "^0.2",
         "miraframework/project": "^0.1",
         "miraframework/shorthand": "^0.1"
