@@ -12,7 +12,7 @@
     "minimum-stability": "stable",
     "require": {
         "miraframework/appmodels": "^0.1",
-        "miraframework/render": "^0.1",
+        "miraframework/render": "^0.2",
         "miraframework/forms": "^0.1",
         "miraframework/models": "^0.2",
         "miraframework/controller": "^0.2",
