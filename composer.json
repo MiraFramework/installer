@@ -17,6 +17,8 @@
         "miraframework/models": "^0.2",
         "miraframework/controller": "^0.2",
         "miraframework/project": "^0.1",
-        "miraframework/shorthand": "^0.1"
+        "miraframework/shorthand": "^0.1",
+        "miraframework/commands": "^0.1",
+        "miraframework/comet": "^0.1"
     }
 }
