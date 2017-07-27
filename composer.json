@@ -13,7 +13,7 @@
     "require": {
         "miraframework/render": "^2.0",
         "miraframework/forms": "^0.1",
-        "miraframework/models": "^0.2",
+        "miraframework/models": "^2.0",
         "miraframework/controller": "^2.0",
         "miraframework/project": "^2.0",
         "miraframework/shorthand": "^0.1",
