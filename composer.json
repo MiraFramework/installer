@@ -18,6 +18,9 @@
         "miraframework/project": "^2.0",
         "miraframework/shorthand": "^0.1",
         "miraframework/commands": "^2.0",
-        "miraframework/comet": "^2.0"
+        "miraframework/comet": "^2.0",
+        "miraframework/cache": "^2.0",
+        "symfony/console": "~2.0",
+        "vlucas/phpdotenv": "^2.4"
     }
 }
